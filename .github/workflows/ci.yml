@@ -4,7 +4,6 @@
 # Este workflow se ejecuta cuando se abre un Pull Request.
 # Valida que los archivos del proyecto sean correctos.
 #
-# TODO: Completa las líneas marcadas con ____ para que funcione.
 # =============================================================
 
 name: CI - Validacion en Pull Request

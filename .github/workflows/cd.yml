@@ -4,7 +4,6 @@
 # Este workflow despliega la web en GitHub Pages automáticamente
 # cuando se fusiona código en la rama principal.
 #
-# TODO: Completa las líneas marcadas con ____ para que funcione.
 # =============================================================
 
 name: CD - Despliegue a GitHub Pages
